@@ -79,4 +79,4 @@ You should try to keep your current MG/KG dosage as minimal as possible. Additio
 # Schedule  
 | A Schedule | B Schedule | C Schedule |
 |----------|----------|----------|
-| Every Day, Every X Hours | Every other day, Every X Hours | Every X day, Every X Hours |
+| Every Day, Every X Hours | Every Other Day, Every X Hours | Every X day, Every X Hours |
