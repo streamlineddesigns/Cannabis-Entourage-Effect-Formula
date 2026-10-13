@@ -33,6 +33,8 @@ Additionally, snowboarders in California enjoy "inducing flow state" - quoted fr
 | Exercise (Weights, Cardio, Stretch, Yoga) | Meditation | Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps) |
 
 ## Weighting
+Which entourage effect do you want? Sativa, Hybrid, or Indica?  
+
 Sativa (Awake/Focus/Exercise)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
@@ -49,9 +51,14 @@ Indica (Asleep/Rest/Reset)
 | 33.3% | 63.37% | 3.33% |
 
 ## Fingerprinting
-In order to find the optimial solution for you, based on your current state, you can run a series of experiments too.
+In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
 
 # Extend Release  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | Increase | Do nothing | Do nothing |
+
+# Instant Release  
+| A Branch | B Branch | C Branch |
+|----------|----------|----------|
+| 0% | Do nothing | Do nothing |
