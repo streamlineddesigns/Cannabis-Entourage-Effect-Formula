@@ -72,3 +72,11 @@ In order to find the optimial solution for you, based on your current state (con
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | Do Nothing | Increase | Decrease |
+
+# Microdosing
+You should try to keep your current MG/KG dosage as minimal as possible. Additionally, if optional, you can try to find alternating schedules to take a dose rather than consume with high frequency.   
+
+# Schedule  
+| A Schedule | B Schedule | C Schedule |
+|----------|----------|----------|
+| Every Day, Every X Hours | Every other day, Every X Hours | Every X day, Every X Hours |
