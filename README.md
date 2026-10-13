@@ -4,6 +4,6 @@ A technique that requires the weighting of a formula derived of active consituen
 
 The combined effect has been come to formally be known as "The entourage effect". It has been noted that the entourage effect can essentially, and excuse my french, "be fucking bootstrapped to the god damn moon".
 
-It began with five kilos of seized hashish on Raphael Mechoulam's bench in Jerusalem — and ended with the discovery that the human body had been speaking cannabis's language all along.
+It began with five kilos of seized hashish on Raphael Mechoulam's bench in Jerusalem, and ended with the discovery that the human body had been speaking cannabis's language all along.
 
 This research is derived from the personal efforts of continuous years of experimentation, in homage to "Alexander Sasha Shulgin" and his wife "Ann Shulgin", I believe a holistic solution to cannabis intake for both recreational and medicinal intake is now possible.
