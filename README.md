@@ -1,3 +1,8 @@
+# TEK-C-Traditional-Ecological-Knowledge
+
+**Copyright 2026 @Streamlined Designs**  
+**Licensed under the Apache License, Version 2.0**
+
 Rather than focus on the past technique of consuming the whole plant and 100% of its consituents when ingesting it, nor extracting and isolating a single active ingredient - a new technique has been derived.
 
 A technique that requires the weighting of a formula derived of active consituents. Whose activation is only made available through a sequencing and timed release. The combined interaction of multiple exogenous compounds being comsumed in a precise weighting and sequencing appears to exhibit properties of latent medicinal effects. 
