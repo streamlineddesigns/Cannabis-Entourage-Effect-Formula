@@ -26,7 +26,7 @@ This research is derived from the personal efforts of continuous years of experi
 Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State". He is the founder and executive director of the Flow Research Collective, an organization that studies peak performance neuroscience and trains individuals.
 
 ## Formulation - 9 Active Holisitic Approaches to Sequence
-| Focus Branch | Indica Branch | Sativa Branch |
+| Focus Branch | IndicF Branch | SativF Branch |
 |----------|----------|----------|
 | CBG | CBD | THC |
 | Alpha-Pinene | Linalool | Limonene |
@@ -43,14 +43,14 @@ Sativa (Awake/Focus/Exercise)
 | 1mg | 0.1mg | 2mg |
 
 Hybrid (In Between)  
-| A Branch | I Branch | S Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | 33.3% | 33.3% | 33.3% |
 | CBG | CBD | THC |
 | 1mg | 1mg | 1mg |
 
 Indica (Asleep/Rest/Reset)  
-| A Branch | I Branch | S Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | 33.3% | 63.37% | 3.33% |
 | CBG | CBD | THC |
@@ -60,22 +60,22 @@ Indica (Asleep/Rest/Reset)
 In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
 
 # Increase Release Time  
-| A Branch | I Branch | S Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Increase | Do nothing | Do nothing |
 
 # Decrease Release Time  
-| A Branch | I Branch | S Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Decrease | Do nothing | Do nothing |
 
 # Increase Sativa Effect 
-| A Branch | I Branch | S Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Do Nothing | Decrease | Increase |
 
 # Decrease Indica Effect  
-| A Branch | I Branch | S Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Do Nothing | Increase | Decrease |
 
