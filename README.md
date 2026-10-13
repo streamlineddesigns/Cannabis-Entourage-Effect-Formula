@@ -30,13 +30,13 @@ Additionally, snowboarders in California enjoy "inducing flow state" - quoted fr
 |----------|----------|----------|
 | CBG | CBD | THC |
 | Alpha-Pinene | Linalool | Limonene |
-| Exercise | Meditation | Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps) |
+| Exercise (Weights, Cardio, Stretch, Yoga) | Meditation | Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps) |
 
 ## Weighting
 Sativa (Awake/Focus/Exercise)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-|  |  |  |
+| 33.3% | 33.3% | 33.3% |
 
 Hybrid (In Between)  
 | A Branch | B Branch | C Branch |
@@ -46,4 +46,4 @@ Hybrid (In Between)
 Indica (Asleep/Rest/Reset)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-|  |  |  |
+| 33.3% | 33.3% | 33.3% |
