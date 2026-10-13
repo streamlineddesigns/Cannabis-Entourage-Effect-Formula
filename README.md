@@ -25,7 +25,7 @@ This research is derived from the personal efforts of continuous years of experi
 
 Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State". He is the founder and executive director of the Flow Research Collective, an organization that studies peak performance neuroscience and trains individuals.
 
-## Formulation - 9 Active Sequencing Steps
+## Formulation - 9 Active Holisitic Approaches to Sequence
 CBG           CBD         THC  
 Alpha-Pinene, Linalool,   Limonene  
 Exercise,     Meditation, Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps)  
@@ -33,3 +33,5 @@ Exercise,     Meditation, Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps)
 ## Weighting
 Sativa (Awake/Focus/Exercise)  
 Indica (Asleep/Rest/Reset)  
+
+##
