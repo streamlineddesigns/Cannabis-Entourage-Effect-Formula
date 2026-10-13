@@ -1,4 +1,4 @@
-# TEK-C-Traditional-Ecological-Knowledge
+# TEK-C-Traditional-Ecological-Knowledge of Cannabis  
 
 **Copyright 2026 @Streamlined Designs**  
 **Licensed under the Apache License, Version 2.0**
