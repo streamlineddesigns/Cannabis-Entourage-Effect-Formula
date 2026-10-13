@@ -1,4 +1,4 @@
-# F.I.S: Cannnabis Entourage Effect Formula  
+# Cannnabis Entourage Effect Formula  
 
 **Copyright 2026 @Streamlined Designs**  
 **Licensed under the Apache License, Version 2.0**
