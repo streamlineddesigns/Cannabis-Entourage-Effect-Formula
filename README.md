@@ -23,7 +23,7 @@ It began with five kilos of seized hashish on Raphael Mechoulam's bench in Jerus
 
 This research is derived from the personal efforts of continuous years of experimentation, in homage to "Alexander Sasha Shulgin" and his wife "Ann Shulgin", I believe a holistic solution to cannabis intake for both recreational and medicinal intake is now possible.
 
-Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State".
+Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State". He is the founder and executive director of the Flow Research Collective, an organization that studies peak performance neuroscience and trains individuals.
 
 ## Formulation
 
