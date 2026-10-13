@@ -3,6 +3,15 @@
 **Copyright 2026 @Streamlined Designs**  
 **Licensed under the Apache License, Version 2.0**
 
+## 🧠 Overview
+
+Here's a free open source solution to cannabis that promotes self awareness for peoples.  🤖  🧠 
+
+Acknowledgements to Traditional Ecological Knowledge (TEK) & the Oglala Lakota Tribe.
+
+Please Star it on Github so the algorithm can pick it up ⭐
+
+
 Rather than focus on the past technique of consuming the whole plant and 100% of its consituents when ingesting it, nor extracting and isolating a single active ingredient - a new technique has been derived.
 
 A technique that requires the weighting of a formula derived of active consituents. Whose activation is only made available through a sequencing and timed release. The combined interaction of multiple exogenous compounds being comsumed in a precise weighting and sequencing appears to exhibit properties of latent medicinal effects. 
