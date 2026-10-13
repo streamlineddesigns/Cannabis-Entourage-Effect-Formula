@@ -50,7 +50,7 @@ Indica (Asleep/Rest/Reset)
 |----------|----------|----------|
 | 33.3% | 63.37% | 3.33% |
 
-## Fingerprinting
+## Fingerprinting  
 In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
 
 # Increase Release Time  
@@ -62,3 +62,13 @@ In order to find the optimial solution for you, based on your current state (con
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | Decrease | Do nothing | Do nothing |
+
+# Increase Sativa Effect 
+| A Branch | B Branch | C Branch |
+|----------|----------|----------|
+| Do Nothing | Decrease | Increase |
+
+# Decrease Indica Effect  
+| A Branch | B Branch | C Branch |
+|----------|----------|----------|
+| Do Nothing | Increase | Decrease |
