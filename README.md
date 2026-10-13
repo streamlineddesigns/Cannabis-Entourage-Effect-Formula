@@ -38,14 +38,14 @@ Which entourage effect do you want? Sativa, Hybrid, or Indica?
 Sativa (Awake/Focus/Exercise)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-| 33.3% | 3.33% | 63.37% |
+| 33.4% | 3.33% | 63.37% |
 | CBG | CBD | THC |
 | 2.5mg | 2.5mg | 2.5mg |
 
 Hybrid (In Between)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-| 33.3% | 33.3% | 33.3% |
+| 33.4% | 33.3% | 33.3% |
 | CBG | CBD | THC |
 | 2.5mg | 2.5mg | 2.5mg |
 
