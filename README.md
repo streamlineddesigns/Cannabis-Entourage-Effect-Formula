@@ -5,7 +5,7 @@
 
 ## 🧠 Overview
 
-Here's a free open source solution to cannabis that promotes self awareness for peoples.  🤖  🧠 
+Here's a free open source solution to cannabis that promotes self awareness for peoples.  🧠 
 
 Acknowledgements to Traditional Ecological Knowledge (TEK) & the Oglala Lakota Tribe.
 
