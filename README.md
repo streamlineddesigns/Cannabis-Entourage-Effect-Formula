@@ -1,4 +1,4 @@
-# Cannnabis Entourage Effect Formula  
+# F.I.S: Cannnabis Entourage Effect Formula  
 
 **Copyright 2026 @Streamlined Designs**  
 **Licensed under the Apache License, Version 2.0**
@@ -26,7 +26,7 @@ This research is derived from the personal efforts of continuous years of experi
 Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State". He is the founder and executive director of the Flow Research Collective, an organization that studies peak performance neuroscience and trains individuals.
 
 ## Formulation - 9 Active Holisitic Approaches to Sequence
-| A Branch | B Branch | C Branch |
+| Focus Branch | Indica Branch | Sativa Branch |
 |----------|----------|----------|
 | CBG | CBD | THC |
 | Alpha-Pinene | Linalool | Limonene |
@@ -36,21 +36,21 @@ Additionally, snowboarders in California enjoy "inducing flow state" - quoted fr
 Which entourage effect do you want? Sativa, Hybrid, or Indica?  
 
 Sativa (Awake/Focus/Exercise)  
-| A Branch | B Branch | C Branch |
+| F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | 33.3% | 3.33% | 63.37% |
 | CBG | CBD | THC |
 | 1mg | 0.1mg | 2mg |
 
 Hybrid (In Between)  
-| A Branch | B Branch | C Branch |
+| A Branch | I Branch | S Branch |
 |----------|----------|----------|
 | 33.3% | 33.3% | 33.3% |
 | CBG | CBD | THC |
 | 1mg | 1mg | 1mg |
 
 Indica (Asleep/Rest/Reset)  
-| A Branch | B Branch | C Branch |
+| A Branch | I Branch | S Branch |
 |----------|----------|----------|
 | 33.3% | 63.37% | 3.33% |
 | CBG | CBD | THC |
@@ -60,22 +60,22 @@ Indica (Asleep/Rest/Reset)
 In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
 
 # Increase Release Time  
-| A Branch | B Branch | C Branch |
+| A Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Increase | Do nothing | Do nothing |
 
 # Decrease Release Time  
-| A Branch | B Branch | C Branch |
+| A Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Decrease | Do nothing | Do nothing |
 
 # Increase Sativa Effect 
-| A Branch | B Branch | C Branch |
+| A Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Do Nothing | Decrease | Increase |
 
 # Decrease Indica Effect  
-| A Branch | B Branch | C Branch |
+| A Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Do Nothing | Increase | Decrease |
 
