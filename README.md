@@ -1,3 +1,4 @@
 Rather than focus on the past technique of consuming the whole plant and 100% of its consituents when ingesting it, nor extracting and isolating a single active ingredient - a new technique has been derived.
 
-A technique that requires the weighting of a formula derived of active consituents. Whose activation is only made available through a sequencing and timed release. The combined interaction of multiple exogenous compounds exhibits properties of ;latent medicinal effects. 
+A technique that requires the weighting of a formula derived of active consituents. Whose activation is only made available through a sequencing and timed release. The combined interaction of multiple exogenous compounds exhibits properties of latent medicinal effects. 
+
