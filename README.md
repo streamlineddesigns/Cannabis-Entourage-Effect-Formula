@@ -47,3 +47,11 @@ Indica (Asleep/Rest/Reset)
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | 33.3% | 63.37% | 3.33% |
+
+## Fingerprinting
+In order to find the optimial solution for you, based on your current state, you can run a series of experiments too.
+
+# Extend Release  
+| A Branch | B Branch | C Branch |
+|----------|----------|----------|
+| Increase | Do nothing | Do nothing |
