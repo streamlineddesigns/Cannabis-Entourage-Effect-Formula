@@ -53,12 +53,12 @@ Indica (Asleep/Rest/Reset)
 ## Fingerprinting
 In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
 
-# Extend Release  
+# Increase Release Time  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | Increase | Do nothing | Do nothing |
 
-# Instant Release  
+# Decrease Release Time  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-| 0% | Do nothing | Do nothing |
+| Decrease | Do nothing | Do nothing |
