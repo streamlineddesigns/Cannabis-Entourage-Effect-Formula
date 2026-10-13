@@ -1,4 +1,4 @@
-# TEK-C-Traditional-Ecological-Knowledge of Cannabis  
+# Cannnabis Entourage Effect Formula  
 
 **Copyright 2026 @Streamlined Designs**  
 **Licensed under the Apache License, Version 2.0**
@@ -38,14 +38,14 @@ Which entourage effect do you want? Sativa, Hybrid, or Indica?
 Sativa (Awake/Focus/Exercise)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-| 33.4% | 3.33% | 63.37% |
+| 33.3% | 3.33% | 63.37% |
 | CBG | CBD | THC |
-| 1mg | 1mg | 1mg |
+| 1mg | 0.1mg | 2mg |
 
 Hybrid (In Between)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
-| 33.4% | 33.3% | 33.3% |
+| 33.3% | 33.3% | 33.3% |
 | CBG | CBD | THC |
 | 1mg | 1mg | 1mg |
 
@@ -54,7 +54,7 @@ Indica (Asleep/Rest/Reset)
 |----------|----------|----------|
 | 33.3% | 63.37% | 3.33% |
 | CBG | CBD | THC |
-| 1mg | 1mg | 1mg |
+| 1mg | 2mg | 0.1mg |
 
 ## Fingerprinting  
 In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
