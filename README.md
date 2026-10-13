@@ -29,7 +29,7 @@ Additionally, snowboarders in California enjoy "inducing flow state" - quoted fr
 | Focus Branch | Indica Branch | Sativa Branch |
 |----------|----------|----------|
 | CBG | CBD | THC |
-| Alpha-Pinene | Linalool | Limonene |
+| Pinene | Linalool | Limonene |
 | Exercise (Weights, Cardio, Stretch, Yoga) | Meditation | Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps) |
 
 ## Weighting
