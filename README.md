@@ -5,3 +5,4 @@ A technique that requires the weighting of a formula derived of active consituen
 The combined effect has been come to formally be known as "The entourage effect". It has been noted that the entourage effect can essentially, and excuse my french, "be fucking bootstrapped to the god damn moon".
 
 The scientific path from a bundle of smuggled Lebanese hashish to mapping how the human body communicates is one of the most fascinating stories in modern neuroscience.
+
