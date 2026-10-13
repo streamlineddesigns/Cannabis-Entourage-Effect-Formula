@@ -40,21 +40,21 @@ Sativa (Awake/Focus/Exercise)
 |----------|----------|----------|
 | 33.3% | 3.33% | 63.37% |
 | CBG | CBD | THC |
-| 5mg | 5mg | 5mg |
+| 2.5mg | 2.5mg | 2.5mg |
 
 Hybrid (In Between)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | 33.3% | 33.3% | 33.3% |
 | CBG | CBD | THC |
-| 5mg | 5mg | 5mg |
+| 2.5mg | 2.5mg | 2.5mg |
 
 Indica (Asleep/Rest/Reset)  
 | A Branch | B Branch | C Branch |
 |----------|----------|----------|
 | 33.3% | 63.37% | 3.33% |
 | CBG | CBD | THC |
-| 5mg | 5mg | 5mg |
+| 2.5mg | 2.5mg | 2.5mg |
 
 ## Fingerprinting  
 In order to find the optimial solution for you, based on your current state (contextually), you can run a series of experiments too. 
