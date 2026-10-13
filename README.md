@@ -6,3 +6,4 @@ The combined effect has been come to formally be known as "The entourage effect"
 
 The scientific path from a bundle of smuggled Lebanese hashish to mapping how the human body communicates is one of the most fascinating stories in modern neuroscience.
 
+This research is derived from the personal efforts of continuous years of experimentation, in homage to "Alexander Sasha Shulgin" and his wife "Ann Shulgin", I believe a holistic solution to cannabis intake for both recreational and medicinal intake is now possible.
