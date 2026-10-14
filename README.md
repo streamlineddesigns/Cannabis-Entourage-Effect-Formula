@@ -30,7 +30,7 @@ Additionally, snowboarders in California enjoy "inducing flow state" - quoted fr
 |----------|----------|----------|
 | CBG | CBD | THC |
 | Pinene | Linalool | Limonene |
-| Exercise (Weights, Cardio, Stretch, Yoga) | Meditation | Stimulant (Caffiene, Green Tea, Lions Mane, Cordeceps) |
+| Exercise (Weights, Cardio, Stretch, Yoga) | Meditation | Stimulant (Coffee, Green Tea, Lions Mane, Cordeceps) |
 
 ## Weighting
 Which entourage effect do you want? Sativa, Hybrid, or Indica?  
