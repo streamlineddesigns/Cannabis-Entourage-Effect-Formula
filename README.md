@@ -74,7 +74,7 @@ In order to find the optimial solution for you, based on your current state (con
 |----------|----------|----------|
 | Do Nothing | Decrease | Increase |
 
-# Decrease Indica Effect  
+# Increase Indica Effect  
 | F Branch | I Branch | S Branch |
 |----------|----------|----------|
 | Do Nothing | Increase | Decrease |
