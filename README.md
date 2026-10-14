@@ -17,7 +17,7 @@ Rather than focus on the past technique of consuming the whole plant and 100% of
 
 A technique that requires the weighting of a formula derived of active consituents. Whose activation is only made available through a sequencing and timed release. The combined interaction of multiple exogenous compounds being consumed in a precise weighting and sequencing appears to exhibit properties of latent medicinal effects. 
 
-The original OG name for this combined effect has since become known as "The entourage effect". It has been noted that the entourage effect can essentially, and excuse my french, "be fucking bootstrapped to the god damn moon".
+The original OG name for this combined effect has since been known as "The entourage effect". It has been noted that the entourage effect can essentially, and excuse my french, "be fucking bootstrapped to the god damn moon".
 
 It began with five kilos of seized hashish on Raphael Mechoulam's bench in Jerusalem, and ended with the discovery that the human body had been speaking cannabis's language all along.
 
