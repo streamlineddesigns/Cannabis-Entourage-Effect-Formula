@@ -17,13 +17,13 @@ Rather than focus on the past technique of consuming the whole plant and 100% of
 
 A technique that requires the weighting of a formula derived of active consituents. Whose activation is only made available through a sequencing and timed release. The combined interaction of multiple exogenous compounds being consumed in a precise weighting and sequencing appears to exhibit properties of latent medicinal effects. 
 
-The original OG combined effect has been come to formally be known as "The entourage effect". It has been noted that the entourage effect can essentially, and excuse my french, "be fucking bootstrapped to the god damn moon".
+The original OG entourage effect has been come to formally be known as "The entourage effect". It has been noted that the entourage effect can essentially, and excuse my french, "be fucking bootstrapped to the god damn moon".
 
 It began with five kilos of seized hashish on Raphael Mechoulam's bench in Jerusalem, and ended with the discovery that the human body had been speaking cannabis's language all along.
 
 This research is derived from the personal efforts of continuous years of experimentation, in homage to "Alexander Sasha Shulgin" and his wife "Ann Shulgin", I believe a holistic solution to cannabis intake for both recreational and medicinal intake is now possible.
 
-Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State". He is the founder and executive director of the Flow Research Collective, an organization that studies peak performance neuroscience and trains individuals.
+Additionally, snowboarders in California enjoy "inducing flow state" - quoted from Steven Kotler. They achieve this through a combination of sequenced exogenous compound consumption, and physiological activities. They use a holisitic approach to achieve "Flow State". He is the founder and executive director of the Flow Research Collective, an organization that studies peak performance neuroscience and trains individuals.
 
 ## Formulation - 9 Active Holisitic Approaches to Sequence
 | Focus Branch | Indica Branch | Sativa Branch |
